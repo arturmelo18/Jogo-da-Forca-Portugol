@@ -1,0 +1,990 @@
+P:FUTEBOL
+D:É um esporte
+D:É jogado com bola
+D:Foi criado na inglaterra
+D:Começa com F 
+D:Pelé é considerado rei desse esporte
+D:Muito popular no Brasil
+D:Ganha quem marcar mais gols
+D:Tem um campeonato mundial famoso
+D:A seleção brasileira já ganhou 5 vezes o campeonato mundial desse esporte
+D:Jogador desse esporte tem um alto salário
+P:COMPUTADOR
+D:É um eletrônico
+D:Faz muitas tarefas
+D:Tem um "cérebro"
+D:Começa com C
+D:Começou a ser construído devido a guerra
+D:Pode ser muito poderoso ou não 
+D:Seu preço pode variar muito
+D:A Intel fábrica componentes para esse eletrônico
+D:Usa o teclado como entrada de dados
+D:Usa o monitor como saída de dados
+P:HOLANDA
+D:É um país
+D:Foi o primeiro país a criar uma bolsa de valores eficiente
+D:Teve colônias na América
+D:Van Pércie  foi um jogador da sua seleção
+D:Laranja mecânica
+D:Compania das Índias Orientais e Ocidentais
+D:Média de altura das pessoas é 1.80
+D:Ajax é um time classico do país
+D:Azul, vermelho e branco são as cores da bandeira
+D:Roben é um jogador da seleção
+P:CARRO
+D:Pense em objetos comuns nas ruas.
+D:Considere um meio de transporte terrestre.
+D:Reflita sobre algo que você usa com frequência para se locomover.
+D:Imagine algo que tenha rodas e motor.
+D:Lembre-se de um item presente em muitos lares ao redor do mundo.
+D:Associe à ideia de mobilidade e conveniência.
+D:Pense em algo que pode ser um símbolo de status ou independência.
+D:Considere um objeto que pode variar em tamanho e forma.
+D:Reflita sobre um item que é frequentemente mencionado em conversas sobre deslocamento.
+D:Imagine algo que faz parte do cotidiano de grande parte da população.
+P:PIANO
+D:Pense em um instrumento musical.
+D:Considere um instrumento de teclas.
+D:Reflita sobre um objeto comumente encontrado em salas de concerto.
+D:Associe à ideia de harmonia e melodia.
+D:Lembre-se de um instrumento que pode ser de cauda ou vertical.
+D:Pense em um instrumento que requer habilidade para tocar.
+D:Considere um item que pode ser encontrado em casas de música.
+D:Reflita sobre um instrumento que tem uma extensa gama de notas musicais.
+D:Associe à ideia de elegância e sofisticação.
+D:Lembre-se de um instrumento frequentemente usado em apresentações clássicas e contemporâneas.
+P:NOTEBOOK
+D:Pense em um dispositivo eletrônico portátil.
+D:Considere um objeto usado para trabalhar ou estudar em movimento.
+D:Reflita sobre algo que permite acesso à internet e aplicativos.
+D:Associe à ideia de produtividade e mobilidade.
+D:Lembre-se de um item com tela e teclado integrados.
+D:Pense em algo que pode armazenar uma grande quantidade de informações.
+D:Considere um dispositivo comum em ambientes de trabalho e estudo.
+D:Reflita sobre um objeto que pode ser usado para criar documentos e apresentações.
+D:Associe à ideia de conectividade e comunicação.
+D:Lembre-se de um item frequentemente usado para realizar tarefas diárias, como enviar e-mails e assistir a vídeos.
+P:TOMADA
+D:Pense em um dispositivo elétrico.
+D:Considere um objeto encontrado em ambientes domésticos.
+D:Reflita sobre algo usado para conectar aparelhos à energia elétrica.
+D:Associe à ideia de fonte de energia para eletrônicos.
+D:Lembre-se de um item com pinos ou plugues.
+D:Pense em algo que pode ter várias saídas.
+D:Considere um objeto comumente encontrado nas paredes.
+D:Reflita sobre um item necessário para carregar dispositivos eletrônicos.
+D:Associe à ideia de utilidade e praticidade no uso diário.
+D:Lembre-se de um objeto indispensável em uma casa ou escritório moderno.
+P:SONHO
+D:Pense em algo que ocorre durante o sono.
+D:Considere uma experiência mental que pode ser vívida e surreal.
+D:Reflita sobre algo que muitas vezes reflete desejos, medos ou ansiedades.
+D:Associe à ideia de imaginação e fantasia.
+D:Lembre-se de um estado mental que pode ser influenciado por eventos do dia-a-dia.
+D:Pense em algo intangível, mas que pode ter um impacto emocional profundo.
+D:Considere um fenômeno que pode ocorrer tanto durante o sono REM quanto NREM.
+D:Reflita sobre um processo mental que pode envolver memórias, pensamentos e emoções.
+D:Associe à ideia de aspirações e metas pessoais.
+D:Lembre-se de algo que pode variar em intensidade e clareza.
+P:TOMATE
+D:Pense em um vegetal comumente usado na culinária.
+D:Considere algo que pode ser consumido cru ou cozido.
+D:Reflita sobre um alimento que pode ter diferentes cores, como vermelho, amarelo ou laranja.
+D:Associe à ideia de um ingrediente versátil em muitas receitas.
+D:Lembre-se de um item frequentemente usado em saladas, molhos e sopas.
+D:Pense em algo que pode ser encontrado em supermercados e mercados ao redor do mundo.
+D:Considere um alimento que é uma fonte de vitaminas e minerais essenciais.
+D:Reflita sobre um objeto que pode ser cultivado em jardins ou estufas.
+D:Associe à ideia de uma fruta que é muitas vezes confundida com um vegetal.
+D:Lembre-se de um item que faz parte da família das Solanaceae, juntamente com batatas e pimentões.
+P:TITANIC
+D:Pense em um épico romântico e dramático.
+D:Considere um filme baseado em um evento histórico real.
+D:Reflita sobre uma história que se passa a bordo de um navio de passageiros.
+D:Associe à ideia de um filme que aborda o trágico naufrágio do navio.
+D:Lembre-se de um filme que apresenta uma narrativa de amor proibido entre os protagonistas.
+D:Pense em uma obra cinematográfica que teve um grande impacto cultural e emocional.
+D:Considere um filme que ganhou vários prêmios, incluindo o Oscar de Melhor Filme.
+D:Reflita sobre um filme que é lembrado por sua trilha sonora icônica e emocionante.
+D:Associe à ideia de um filme que apresenta performances memoráveis de seus atores.
+D:Lembre-se de um filme que alterna entre momentos de grandeza e tragédia, mantendo o espectador cativado até o final.
+P:LAPIS
+D:Um instrumento de escrita e desenho com uma fina camada de grafite ou substância similar, encerrado em madeira ou outro material.
+D:Existem diferentes tipos para diversas finalidades, como escrever, desenhar e colorir.
+D:Sua dureza varia, determinando a intensidade da marca deixada na superfície.
+D:Tem uma história que remonta aos tempos antigos, sendo usado por civilizações antigas como os romanos.
+D:Ao longo dos séculos, passou por aprimoramentos na fabricação e técnicas de encadernação.
+D:Pode ser afiado para manter a ponta precisa.
+D:Além da forma tradicional, há versões mecânicas que utilizam um sistema de avanço para manter a ponta constante.
+D:Para colorir, são disponíveis em uma variedade de cores e tonalidades.
+D:Amplamente utilizados em áreas como arte, arquitetura, engenharia e escrita.
+D:São reconhecidos por sua versatilidade e acessibilidade em todo o mundo.
+P:BORRACHA
+D:Utilize para corrigir erros em lápis.
+D:É um material elástico e flexível.
+D:Pode ser encontrada em diversas cores e tamanhos.
+D:É feita de polímeros naturais ou sintéticos.
+D:É eficaz na remoção de marcas de lápis em papel.
+D:Possui propriedades de isolamento elétrico.
+D:É um material comum em itens de escrita e desenho.
+D:Pode ser usada para apagar traços de caneta em alguns tipos de papel.
+D:É importante evitar o uso em documentos oficiais, pois pode borrar a tinta.
+D:Pode ser moldada para diferentes usos além do apagar.
+P:MOUSE
+D:Utilizado para interagir com interfaces de computador.
+D:Composto por botões e um sensor de movimento.
+D:Vem em diferentes formas e tamanhos, incluindo ergonômicos.
+D:Pode ser conectado ao computador por fio ou sem fio.
+D:É um periférico essencial para a navegação em computadores.
+D:Pode ter funcionalidades adicionais, como roda de rolagem.
+D:É utilizado tanto em ambientes profissionais quanto domésticos.
+D:Existem diferentes tipos, como óptico e laser, com diferentes precisões.
+D:Deve ser limpo regularmente para garantir um bom desempenho.
+D:Pode ser personalizado com diferentes configurações de sensibilidade e botões.
+P:CELULAR
+D:Dispositivo móvel utilizado para comunicação e acesso à internet.
+D:Possui diversas funcionalidades, como chamadas, mensagens e aplicativos.
+D:É portátil e pode ser facilmente transportado.
+D:Disponível em uma variedade de modelos, marcas e tamanhos.
+D:Requer uma assinatura de serviço de telefonia para funcionar.
+D:Pode ser utilizado para tirar fotos e gravar vídeos.
+D:Oferece acesso a uma ampla gama de aplicativos para entretenimento e produtividade.
+D:Pode ser personalizado com capas e acessórios.
+D:Requer cuidados com a bateria para garantir uma vida útil prolongada.
+D:Deve-se estar atento ao uso responsável, especialmente em locais públicos.
+P:PORTA
+D:É uma abertura em uma parede ou estrutura que permite a passagem de pessoas ou objetos de um lado para o outro.
+D:Pode ser feita de diversos materiais, como madeira, metal, vidro ou plástico.
+D:Existem diferentes tipos, como de correr, pivotantes e dobráveis.
+D:É importante manter em bom estado de funcionamento, lubrificando dobradiças e fechaduras regularmente.
+D:Podem ter diferentes sistemas de fechamento, como maçanetas, trincos ou fechaduras eletrônicas.
+D:Devem ser instaladas de forma segura e nivelada para garantir o funcionamento adequado.
+D:É recomendável verificar regularmente as condições das borrachas de vedação para evitar vazamentos de ar ou água.
+D:Podem ser uma parte importante da decoração de um ambiente, sendo escolhidas de acordo com o estilo e a estética desejada.
+D:Em ambientes comerciais e industriais, podem ter sistemas de segurança adicionais, como fechaduras de alta segurança ou sistemas de controle de acesso.
+D:Ao sair de casa, certifique-se de trancar todas para garantir a segurança do local.
+P:TAMANDUA
+D:É um mamífero que pertence à ordem dos pilosos e à família dos mirmecofagídeos.
+D:Possui um focinho longo e estreito, adaptado para a alimentação de insetos.
+D:São encontrados principalmente em áreas de floresta tropical da América Central e do Sul.
+D:Possuem garras afiadas nas patas dianteiras, que utilizam para abrir ninhos de insetos.
+D:São animais solitários e noturnos, passando a maior parte do dia descansando em tocas ou buracos de árvores.
+D:Têm uma língua extensível e pegajosa, que usam para capturar formigas e cupins.
+D:São importantes para o controle populacional de insetos, ajudando a regular as populações de pragas.
+D:Apesar de serem mamíferos, têm uma temperatura corporal baixa em comparação com outros mamíferos de tamanho semelhante.
+D:São geralmente tímidos e preferem evitar o contato com humanos.
+D:Estão ameaçados por perda de habitat e pela caça ilegal para o comércio de animais exóticos.
+P:ORNITORRINCO
+D:É um mamífero que vive na Austrália e na Tasmânia.
+D:Possui um bico semelhante ao de um pato, mas é na verdade um mamífero monotremado.
+D:Tem uma cauda longa e peluda, semelhante à de um castor.
+D:Possui patas com membranas, o que o torna um excelente nadador.
+D:É conhecido por ser um dos poucos mamíferos que põem ovos.
+D:Os machos possuem esporões venenosos nas patas traseiras, usados durante as disputas territoriais e para defesa.
+D:Possui um revestimento de pelo denso, que o ajuda a se manter aquecido na água.
+D:Alimenta-se principalmente de insetos, larvas, camarões e pequenos peixes, que captura com seu bico e armazena em bolsas nas bochechas.
+D:Possui hábitos noturnos e crepusculares, passando o dia em tocas cavadas na margem dos rios.
+D:É considerado um símbolo da fauna australiana e uma espécie única no mundo animal.
+P:CADERNO
+D:É um item essencial para estudantes e profissionais, utilizado para tomar notas e fazer exercícios.
+D:Pode ser encontrado em diferentes tamanhos, como A4, A5, e em diferentes formatos, como pautado, quadriculado e em branco.
+D:Possui capa dura ou flexível, que protege o conteúdo interno.
+D:Pode ter folhas destacáveis, facilitando a organização e a compartilhamento de informações.
+D:É importante escolher um caderno de qualidade para evitar que as folhas se rasguem ou se soltem facilmente.
+D:Pode ser utilizado para registrar ideias, fazer esboços, planejar projetos e acompanhar tarefas.
+D:É recomendável etiquetar ou identificar o caderno para facilitar a sua identificação em caso de perda.
+D:Deve-se tomar cuidado ao transportar o caderno para evitar danos às folhas ou à capa.
+D:É útil revisar periodicamente as anotações feitas no caderno para reforçar o aprendizado e manter-se organizado.
+D:Pode ser personalizado com adesivos, desenhos e outras decorações para torná-lo mais atrativo e motivador.
+P:ZEBRA
+D:Listras são características distintivas.
+D:Habita principalmente savanas africanas.
+D:É um mamífero herbívoro.
+D:Possui uma pelagem listrada em preto e branco.
+D:Faz parte da família dos equídeos.
+D:Suas listras servem como camuflagem contra predadores.
+D:As zebras vivem em grupos sociais chamados de "haréns".
+D:São animais ágeis e podem correr a uma velocidade considerável.
+D:O padrão de listras é único para cada indivíduo.
+D:Têm uma relação simbiótica com certas aves, como os pássaros-pilotos.
+P:LEAO
+D:É conhecido como "o rei da selva".
+D:Possui uma juba distintiva, que é mais proeminente nos machos.
+D:Pertence à família dos felinos.
+D:Os leões machos são responsáveis pela defesa do território e da alcateia.
+D:Vivem em grupos sociais chamados de "alcateias" ou "pride".
+D:São carnívoros e caçam em grupo para capturar presas maiores.
+D:Passam a maior parte do tempo descansando e dormindo, podendo chegar a até 20 horas por dia.
+D:São encontrados principalmente em savanas e pradarias da África.
+D:Têm uma vocalização poderosa, incluindo rugidos que podem ser ouvidos a longas distâncias.
+D:O período de gestação das fêmeas dura cerca de três meses, e normalmente nascem de uma a quatro crias por ninhada.
+P:TARTARUGA
+D:Possuem um casco resistente que as protege de predadores.
+D:Podem viver tanto em ambientes terrestres quanto aquáticos, dependendo da espécie.
+D:Algumas espécies são conhecidas por fazerem migrações impressionantes.
+D:São répteis de sangue frio, o que significa que sua temperatura corporal depende do ambiente ao seu redor.
+D:Algumas podem viver por muitas décadas, algumas até centenas de anos.
+D:Elas se reproduzem através de ovos, que são depositados em ninhos escavados na areia.
+D:Enfrentam ameaças como a pesca predatória, poluição e a destruição de habitats.
+D:Têm uma incrível capacidade de se adaptar a diferentes ambientes e condições climáticas.
+D:Algumas terrestres são conhecidas por hibernar durante os meses mais frios do ano.
+D:São animais incríveis que desempenham um papel importante no equilíbrio dos ecossistemas em que habitam.
+P:MACARRAO
+D:É um alimento popular em muitas culturas ao redor do mundo.
+D:Pode ser feito de diversos ingredientes, como trigo, arroz, milho ou legumes.
+D:Existem inúmeras variedades de formatos, como espaguete, penne, fusilli, entre outros.
+D:É uma fonte de carboidratos que fornece energia ao corpo.
+D:Pode ser preparado de várias maneiras, como cozido, frito ou assado.
+D:É frequentemente servido com molhos diversos, como de tomate, pesto ou alfredo.
+D:É um alimento versátil que pode ser combinado com uma grande variedade de ingredientes.
+D:É um dos pratos favoritos de muitas crianças e adultos.
+D:Na culinária italiana, é um elemento fundamental e é frequentemente associado à tradição e cultura do país.
+D:Pode ser encontrado em diferentes tamanhos e texturas, dependendo da preferência pessoal e da região onde é produzido.
+P:BATEDEIRA
+D:É um eletrodoméstico comum em cozinhas ao redor do mundo.
+D:Possui diferentes velocidades que permitem misturar ingredientes de forma eficiente.
+D:Pode ser usado para bater massas de bolos, tortas, pães e outros alimentos.
+D:Facilita o processo de preparação de receitas que exigem mistura ou batimento de ingredientes.
+D:Existem diversos tipos e modelos, desde os manuais até os elétricos de pedestal.
+D:Algumas possuem acessórios adicionais, como batedores de massa, ganchos para massas pesadas e batedores de claras em neve.
+D:É uma ferramenta essencial para quem gosta de assar e cozinhar regularmente.
+D:Ajuda a economizar tempo e esforço na cozinha, especialmente ao lidar com receitas que exigem mistura intensa.
+D:Pode ser utilizada por profissionais da culinária e também por amadores que desejam experimentar novas receitas.
+D:A manutenção regular, como a limpeza dos acessórios e a verificação da integridade dos componentes, é importante para garantir o bom funcionamento.
+P:PAO
+D:É um alimento básico presente em diversas culturas ao redor do mundo.
+D:Pode ser feito a partir de diferentes tipos de farinha, como trigo, centeio, milho ou aveia.
+D:Existem inúmeras variedades, desde os simples até os mais elaborados, como baguetes, ciabattas, integrais, entre outros.
+D:É uma excelente fonte de carboidratos, que fornecem energia ao corpo.
+D:O processo de fermentação é fundamental na produção de muitos tipos, ajudando a criar sabor e textura.
+D:Pode ser consumido de diversas formas, seja sozinho, com acompanhamentos doces ou salgados, ou como base para sanduíches.
+D:Fazer em casa é uma atividade gratificante e muitas pessoas apreciam o aroma e o sabor do fresco feito em casa.
+D:É um elemento central em muitas tradições culinárias ao redor do mundo, sendo utilizado em celebrações religiosas, festivais e eventos sociais.
+D:Apesar de ser um alimento básico, a produção envolve uma variedade de técnicas e habilidades, desde a mistura dos ingredientes até o processo de fermentação e cozimento.
+D:É importante armazenar corretamente para mantê-lo fresco por mais tempo, seja em temperatura ambiente, na geladeira ou no freezer, dependendo do tipo de e da preferência pessoal.
+P:BATATA
+D:É um vegetal amplamente consumido em todo o mundo.
+D:Pode ser encontrada em uma variedade de cores, incluindo branco, amarelo, vermelho e roxo.
+D:É uma excelente fonte de carboidratos, fibras, vitaminas e minerais essenciais para a saúde.
+D:Existem muitas maneiras de preparar, como assadas, fritas, cozidas, grelhadas ou purê.
+D:São um ingrediente versátil que pode ser usado em uma grande variedade de pratos, desde acompanhamentos simples até pratos principais elaborados.
+D:Armazene em um local fresco, escuro e bem ventilado para evitar que brotem ou estraguem rapidamente.
+D:Ao escolher no supermercado, procure por aquelas que estejam firmes, sem manchas escuras ou sinais de brotamento.
+D:Evite armazenar perto de cebolas, pois as cebolas podem acelerar o processo de apodrecimento.
+D:Antes de cozinhar, lave bem para remover qualquer sujeira ou resíduo da casca.
+D:Ao cozinhar fritas, prefira métodos de cozimento mais saudáveis, como assar no forno em vez de fritar em óleo.
+P:ABACAXI
+D:Uma fruta tropical com polpa suculenta e casca espinhosa, usada em sucos e sobremesas.
+D:Possui uma coroa de folhas no topo e é conhecida por seu sabor doce e ácido.
+D:Sua casca pode variar de verde a amarela quando madura.
+D:É rica em vitamina C e tem propriedades refrescantes.
+D:É consumida fresca, grelhada e em preparações culinárias diversas.
+D:Seu suco é popular e pode ser usado como ingrediente em coquetéis e receitas.
+D:A polpa é macia e pode ser combinada com outras frutas em saladas.
+D:É símbolo de hospitalidade e é frequentemente oferecida como presente.
+D:É usada em decorações e festividades tropicais devido à sua aparência exótica.
+D:É uma fruta versátil, encontrada em mercados e supermercados o ano todo.
+P:BANCO
+D:Um estabelecimento financeiro que oferece serviços como contas, empréstimos e investimentos.
+D:Pode ser um banco comercial, de investimento ou de varejo, dependendo dos serviços oferecidos.
+D:Tem agências físicas e plataformas online para atender os clientes.
+D:Oferece caixas eletrônicos para saques e depósitos fora do horário comercial.
+D:É regulado por autoridades financeiras e segue normas bancárias específicas.
+D:Lida com transações em moeda nacional e estrangeira, incluindo câmbio de divisas.
+D:Oferece produtos como cartões de crédito, débito e financiamentos.
+D:É parte essencial do sistema financeiro de um país, facilitando a movimentação de recursos.
+D:Oferece serviços de atendimento ao cliente para resolver questões e problemas financeiros.
+D:Mantém registros detalhados das transações e atividades financeiras de seus clientes.
+P:CASA
+D:Um espaço de moradia que oferece conforto e segurança para os residentes.
+D:Pode ter uma arquitetura variada, incluindo casas térreas, sobrados e prédios.
+D:É composta por ambientes como quartos, sala, cozinha e banheiro.
+D:Tem janelas e portas para entrada de luz natural e ventilação.
+D:Muitas casas têm quintais, jardins ou áreas externas para lazer.
+D:É decorada de acordo com o estilo e preferências dos moradores.
+D:Oferece privacidade e um ambiente familiar para seus ocupantes.
+D:Pode ser alugada, comprada ou construída, dependendo das circunstâncias.
+D:É onde as pessoas descansam, convivem e realizam suas atividades diárias.
+D:É um local de refúgio e pertencimento para os que nela habitam.
+P:ELEFANTE
+D:Um mamífero de grande porte, conhecido por sua tromba longa e presas proeminentes.
+D:Vive em grupos sociais chamados manadas, liderados por uma fêmea adulta.
+D:Alimenta-se de uma variedade de vegetação e tem um apetite significativo.
+D:Tem orelhas grandes que ajudam na regulação da temperatura corporal.
+D:É encontrado principalmente na África e Ásia, em habitats variados.
+D:Sua tromba é uma estrutura multifuncional usada para beber água, pegar alimentos e comunicação.
+D:Possui presas de marfim, que são alvo de caça ilegal e ameaçam sua sobrevivência.
+D:Tem uma memória excepcional e é considerado um dos animais mais inteligentes.
+D:É um símbolo da vida selvagem e da importância da conservação dos habitats naturais.
+D:Sua presença é destacada em muitas culturas, representando poder e respeito.
+P:FACA
+D:Um utensílio cortante essencial na cozinha, usado para cortar, fatiar e preparar alimentos.
+D:Tem uma lâmina afiada presa a um cabo para facilitar o manuseio.
+D:Existem diferentes tipos de facas para diferentes finalidades culinárias, como faca de chef, faca de pão e faca de desossar.
+D:Deve ser mantida afiada para garantir cortes precisos e seguros.
+D:É parte fundamental do conjunto de utensílios de qualquer cozinha doméstica ou profissional.
+D:Também é utilizada em atividades como acampamento, sobrevivência e artesanato.
+D:Deve ser lavada à mão e armazenada em local seguro para evitar acidentes.
+D:Sua qualidade e material influenciam diretamente na eficiência do corte dos alimentos.
+D:É uma ferramenta básica para cozinheiros de todos os níveis de habilidade.
+D:Seu uso requer prática e habilidade para garantir resultados satisfatórios na preparação de alimentos.
+P:GATO
+D:Um animal doméstico conhecido por sua independência, elegância e habilidades de caça.
+D:Tem uma pelagem macia e variada em cores e padrões.
+D:Emite sons como miados e ronronados para se comunicar com outros gatos e humanos.
+D:É ágil, curioso e gosta de explorar seu ambiente.
+D:Possui garras retráteis usadas para escalada e defesa.
+D:É limpo, passando longos períodos lambendo seu próprio pelo.
+D:Pode ser um companheiro afetuoso e carinhoso para seus donos.
+D:Tem uma visão noturna excepcional e excelentes reflexos.
+D:Gosta de brincar e interagir com brinquedos e objetos.
+D:É um dos animais de estimação mais populares em todo o mundo.
+P:HOTEL
+D:Um estabelecimento que oferece acomodações temporárias para viajantes e turistas.
+D:Pode variar de pequenas pousadas a grandes hotéis de luxo, dependendo do tamanho e das comodidades oferecidas.
+D:Oferece serviços como quartos confortáveis, alimentação, lazer e entretenimento.
+D:Tem equipe dedicada para atender às necessidades dos hóspedes, como recepcionistas, camareiras e garçons.
+D:Possui instalações como piscinas, restaurantes, academias e salas de conferência.
+D:É uma opção de hospedagem conveniente para viagens de negócios e lazer.
+D:Oferece facilidades como serviço de quarto, lavanderia e transporte.
+D:Mantém padrões de limpeza e segurança para garantir o conforto dos hóspedes.
+D:É uma parte importante da indústria do turismo, contribuindo para a economia local e global.
+D:Pode ter classificações e avaliações que indicam seu nível de qualidade e serviço.
+P:ILHA
+D:Uma porção de terra cercada por água em todos os lados.
+D:Pode ser pequena, como uma ilhota, ou grande, como uma ilha continental.
+D:Geralmente possui uma fauna e flora específicas devido ao isolamento geográfico.
+D:É um destino turístico popular devido às suas praias, recifes e paisagens naturais.
+D:Pode ser habitada por comunidades locais ou ser desabitada e preservada como reserva natural.
+D:Oferece atividades como mergulho, snorkeling, pesca e caminhadas.
+D:Pode ter infraestrutura turística, como resorts, hotéis e restaurantes.
+D:É acessível por barco, avião ou outros meios de transporte aquático.
+D:Tem um clima e ambiente característicos que a tornam única.
+D:Está sujeita a mudanças naturais, como erosão costeira e eventos climáticos extremos.
+P:JOGO
+D:Uma atividade recreativa que envolve regras, competição e habilidades.
+D:Pode ser praticado individualmente ou em equipes, em ambientes internos ou externos.
+D:Inclui uma variedade de tipos, como jogos de tabuleiro, jogos eletrônicos, esportes e jogos de cartas.
+D: Geralmente tem um objetivo ou missão a ser alcançado para vencer.
+D:Pode ser educativo, estimulando o raciocínio, a estratégia e o trabalho em equipe.
+D:É uma forma de entretenimento popular em todo o mundo, atravessando culturas e gerações.
+D:Pode ser competitivo, cooperativo ou apenas recreativo, dependendo das regras e objetivos.
+D:Oferece diversão e desafio para os participantes, promovendo socialização e aprendizado.
+D:Tem uma história rica, com muitos jogos tradicionais e modernos desenvolvidos ao longo do tempo.
+D:É uma atividade versátil, adaptando-se a diferentes interesses e preferências das pessoas.
+P:KILO
+D:Uma unidade de medida de massa que equivale a mil gramas.
+D:É frequentemente utilizada para medir o peso de objetos e alimentos.
+D:É representada pelo símbolo "kg" e é parte do sistema métrico internacional.
+D:É uma medida padrão em diversas áreas, como culinária, comércio e ciências.
+D:Pode ser usada para quantificar ingredientes em receitas ou produtos em embalagens.
+D:É comum em balanças de uso doméstico e industrial para medição precisa.
+D:Seu nome deriva do grego "chilioi", que significa mil.
+D:É uma unidade fácil de converter, sendo mil vezes maior que o grama.
+D:É usada em países ao redor do mundo como medida de massa oficial.
+D:Seu uso é fundamental para garantir a precisão nas medições de peso.
+P:MACACO
+D:Um mamífero primata conhecido por sua agilidade, inteligência e capacidade de adaptação.
+D:Existem diversas espécies de macacos, como o macaco-prego, o macaco-rhesus e o chimpanzé.
+D:São encontrados em diferentes habitats, desde florestas tropicais até savanas e montanhas.
+D:Possuem mãos habilidosas com polegares opositores que permitem agarrar e manipular objetos.
+D:São sociais e vivem em grupos hierárquicos, com interações complexas entre os membros.
+D:Alimentam-se de uma variedade de alimentos, como frutas, folhas, insetos e até mesmo pequenos animais.
+D:Têm uma visão e audição aguçadas, sendo capazes de detectar predadores e fontes de alimento.
+D:São objetos de estudo em pesquisas científicas devido à sua semelhança genética com os humanos.
+D:Podem ser treinados para realizar tarefas simples e são utilizados em experimentos comportamentais.
+D:Sua presença é marcante em muitas culturas e mitologias ao redor do mundo.
+P:NOITE
+D:O período do dia caracterizado pela ausência de luz solar, ocorrendo após o pôr do sol e antes do amanhecer.
+D:É um momento de descanso e repouso para muitos seres vivos, incluindo humanos e animais.
+D:A escuridão da noite é causada pela rotação da Terra em relação ao Sol.
+D:É quando as estrelas, a Lua e outros corpos celestes são mais visíveis no céu.
+D:É associada ao sono, sonhos, mistério e tranquilidade.
+D:Muitas atividades noturnas são realizadas durante esse período, como festas, passeios e observação do céu.
+D:Em algumas culturas, a noite é considerada sagrada e tem significados espirituais profundos.
+D:A iluminação artificial tornou possível a realização de atividades durante a noite, como trabalho e entretenimento.
+D:A escuridão da noite também é essencial para o ciclo natural de muitos organismos e ecossistemas.
+D:O céu estrelado da noite inspirou a imaginação humana ao longo da história, gerando mitos, lendas e histórias fascinantes.
+P:OVO
+D:Um alimento comum e versátil, produzido por aves, répteis e alguns mamíferos.
+D:É uma fonte de proteína, vitaminas e minerais importantes para a nutrição humana.
+D:Pode ser consumido cozido, frito, mexido, pochê ou em diversas preparações culinárias.
+D:A casca do ovo é composta principalmente de cálcio e proteínas.
+D:Existem diferentes tamanhos de ovos, dependendo da espécie que os produz.
+D:É um ingrediente essencial em muitas receitas, como bolos, omeletes, quiches e sobremesas.
+D:Pode ser usado como ligante em preparações culinárias para dar consistência e textura.
+D:É consumido em todo o mundo e faz parte da dieta de diversas culturas.
+D:O ovo de galinha é o mais comum, mas ovos de outras aves, como pato e codorna, também são consumidos.
+D:A produção e consumo de ovos são regulados por normas sanitárias e de bem-estar animal em muitos países.
+P:PATO
+D:Uma ave aquática conhecida por sua plumagem colorida, bico largo e patas palmadas.
+D:Pode ser encontrado em lagos, rios, pântanos e ambientes aquáticos diversos.
+D:É um animal migratório que se desloca entre regiões durante diferentes estações do ano.
+D:Alimenta-se de plantas aquáticas, insetos, crustáceos e pequenos peixes.
+D:Tem habilidades de mergulho e natação, utilizando suas patas como remos.
+D:A fêmea é chamada de pata e o macho de pato, sendo ambos conhecidos por seu canto característico.
+D:É uma ave frequentemente criada em fazendas para produção de carne e ovos.
+D:É símbolo de prosperidade e fertilidade em algumas culturas e mitologias.
+D:É caçado por humanos como fonte de alimento em muitas regiões do mundo.
+D:Sua presença em corpos d'água indica a saúde e o equilíbrio dos ecossistemas aquáticos.
+P:QUADRO
+D:Uma superfície plana e rígida usada para escrever, desenhar ou exibir informações visuais.
+D:Pode ser feito de diferentes materiais, como madeira, metal, vidro ou plástico.
+D:É comumente usado em salas de aula, escritórios, galerias de arte e apresentações.
+D:Pode ser pintado com tinta branca para funcionar com giz ou receber papel ou tela para pinturas e desenhos.
+D:Pode ser magnético para fixação de ímãs e materiais metálicos.
+D:É uma ferramenta de comunicação visual importante em educação, negócios e entretenimento.
+D:Pode ter molduras decorativas para realçar seu aspecto estético.
+D:Pode ser usado com marcadores, giz, canetas ou outros utensílios de escrita e desenho.
+D:É parte integrante de muitos processos de aprendizado, apresentações e exposições artísticas.
+D:Seu uso evoluiu com o avanço da tecnologia, incluindo versões dele digitais e interativos.
+P:SALTO
+D:Um movimento que envolve impulsionar o corpo para cima com as pernas, geralmente para superar um obstáculo ou alcançar uma altura maior.
+D:Pode ser praticado em diversas modalidades esportivas, como salto em altura, salto em distância e salto triplo.
+D:Requer força, técnica e coordenação para ser executado com sucesso.
+D:É uma habilidade essencial em esportes como atletismo, ginástica e esportes de combate.
+D:Também é um termo usado para descrever calçados com solas grossas que fornecem amortecimento ao caminhar ou correr.
+D:Os saltos podem ser verticais, horizontais ou combinados, dependendo da modalidade esportiva.
+D:Além do esporte, o termo "salto" também é usado em expressões como "dar um salto" (visitar rapidamente um lugar) ou "salto de fé" (ação arriscada ou corajosa).
+D: Existem técnicas específicas para diferentes tipos de saltos, visando maximizar a distância, altura ou precisão.
+D:O salto é uma capacidade fundamental para a mobilidade e exploração do ambiente em muitas atividades humanas.
+D:A prática regular de saltos pode contribuir para o desenvolvimento da força muscular e da coordenação motora.
+P:TENIS
+D:Um calçado esportivo projetado para proporcionar conforto, apoio e amortecimento durante a prática de atividades físicas, especialmente esportes como tênis, corrida e caminhada.
+D:Geralmente possui solas de borracha aderente para melhor tração e durabilidade.
+D:Existem diferentes tipos de tênis para diversas atividades esportivas e condições de terreno.
+D:Pode ter diferentes sistemas de amortecimento, como cápsulas de ar, gel ou espuma, para absorver impactos ao caminhar ou correr.
+D:O design e a tecnologia dos tênis evoluíram ao longo do tempo para oferecer melhor desempenho e conforto aos atletas.
+D:É importante escolher tênis adequados ao tipo de atividade física praticada e ao formato do pé de cada pessoa.
+D:Tênis de alta performance são projetados para maximizar a eficiência do movimento e reduzir o risco de lesões.
+D:A manutenção adequada dos tênis, como limpeza regular e substituição das palmilhas e solas desgastadas, prolonga sua vida útil e eficácia.
+D:Além da funcionalidade esportiva, os tênis também se tornaram itens de moda e estilo, sendo usados em diversas ocasiões informais.
+D:O mercado de tênis esportivos é diversificado, oferecendo opções para diferentes preferências de estilo, cores e marcas.
+P:RADIO
+D:Um meio de comunicação que transmite informações, música e entretenimento através de ondas eletromagnéticas.  
+D:Pode ser AM (amplitude modulada) ou FM (frequência modulada), com diferentes faixas de frequência.  
+D:Foi um dos primeiros meios de comunicação em massa, permitindo a transmissão de notícias e programas para uma audiência ampla.  
+D:É utilizado para transmitir programas de rádio, como música, programas de entrevistas, noticiários e debates.  
+D:As rádios podem ser locais, regionais, nacionais ou internacionais, alcançando diferentes públicos.  
+D:Existem rádios especializadas em gêneros musicais específicos, como rock, jazz, pop, entre outros.  
+D:Com o avanço da tecnologia, as rádios também podem ser transmitidas via internet, conhecidas como rádios online ou webrádios.  
+D:É um meio de comunicação versátil, acessível e de fácil alcance para pessoas de diversas faixas etárias e regiões.  
+D:As rádios desempenham um papel importante na divulgação de cultura, informação e entretenimento para a sociedade.  
+D:O rádio é utilizado em diferentes contextos, desde programas de entretenimento até transmissões de emergência e comunicação em áreas remotas.
+P:URSO
+D:Um animal peludo e forte, com garras afiadas e que hiberna no inverno.
+D:É comum em regiões de florestas e pode ser tanto herbívoro quanto carnívoro.
+D:Alguns membros dessa espécie são conhecidos por sua grande estatura e força.
+D:Um dos mais famosos representantes dessa espécie adora mel e é amigo do Ursinho Pooh.
+D:Eles possuem uma habilidade impressionante de nadar longas distâncias.
+D:Em algumas culturas, são considerados símbolos de coragem e força.
+D:Suas pegadas são grandes e facilmente reconhecíveis na neve.
+D:Existem espécies desse animal tanto no hemisfério norte quanto no sul.
+D:É frequentemente retratado em contos de fadas e lendas.
+D:Pode ser encontrado em diferentes cores, incluindo marrom, preto e até mesmo branco.
+P:VASO
+D:Um objeto utilizado para colocar plantas ou flores, geralmente feito de cerâmica, vidro ou plástico.
+D:É comum encontrá-lo decorando mesas, estantes e jardins.
+D:Muitas vezes tem formas e designs artísticos, tornando-se uma peça decorativa por si só.
+D:Pode ser pequeno o suficiente para segurar uma única flor ou grande para conter um arbusto.
+D:Em culturas antigas, eram usados para armazenar alimentos e líquidos.
+D:Pode ser encontrado em uma variedade de cores, dependendo do material de que é feito.
+D:É um presente comum em ocasiões de inaugurações e celebrações.
+D:Pode ter ornamentos ou padrões detalhados pintados em sua superfície.
+D:Alguns são feitos para ser pendurados em paredes ou tetos.
+D:É frequentemente associado à jardinagem e ao cultivo de plantas.
+P:XADREZ
+D:Um jogo de tabuleiro estratégico, disputado entre duas pessoas, onde cada jogador tem peças diferentes para mover.
+D:O objetivo é capturar a peça mais importante do adversário, o Rei.
+D:Cada peça tem um movimento específico e único, como o cavalo, que se move em "L".
+D:É considerado um dos jogos mais antigos e intelectualmente desafiadores do mundo.
+D:Grandes mestres desse jogo são frequentemente celebrados por suas habilidades estratégicas.
+D:Tem sido usado como uma ferramenta educativa para ensinar lógica e planejamento.
+D:O tabuleiro é composto por 64 quadrados, alternando entre duas cores.
+D:As peças principais incluem peões, torres, cavalos, bispos, rainha e rei.
+D:Existem campeonatos mundiais onde jogadores competem pelo título de campeão.
+D:Filmes e livros frequentemente retratam partidas épicas desse jogo.
+P:ABELHA
+D:Um inseto que produz mel, fundamental para a polinização de flores e plantas.
+D:Vive em colônias organizadas e é conhecida por sua picada dolorida quando se sente ameaçada.
+D:A rainha é a única fêmea fértil na colônia, responsável por botar ovos.
+D:Trabalhadoras e operárias têm diferentes funções, incluindo cuidar das larvas e coletar néctar.
+D:São essenciais para a produção de muitos alimentos que consumimos diariamente.
+D:Suas colmeias são estruturas complexas feitas de cera produzida por elas mesmas.
+D:Comunicam-se entre si através de uma dança específica que indica a localização das flores.
+D:Existem muitas espécies, incluindo a abelha europeia e a abelha africana.
+D:Elas têm um papel crucial na manutenção dos ecossistemas através da polinização.
+D:O mel produzido por elas é um alimento rico em nutrientes e tem sido usado medicinalmente por séculos.
+P:BOLA
+D:Um objeto esférico utilizado em diversos esportes, como futebol, basquete e vôlei.
+D:É comum vê-lo em parques, escolas e estádios ao redor do mundo.
+D:Pode ser feito de diferentes materiais, como couro, borracha ou plástico.
+D:Muitas vezes é colorido e possui desenhos ou logotipos em sua superfície.
+D:É essencial para a prática de jogos recreativos e competitivos.
+D:Pode variar em tamanho, desde pequenas de brinquedo até grandes usadas em exercícios físicos.
+D:Crianças e adultos se divertem jogando e brincando com ele.
+D:Alguns tipos são usados especificamente para treinamento físico e condicionamento.
+D:Em algumas culturas, é um símbolo de diversão e atividade física.
+D:Pode ser inflada com ar para manter sua forma e proporcionar melhor desempenho.
+P:DADO
+D:Um objeto pequeno, geralmente cúbico, usado em jogos para gerar números aleatórios.
+D:Cada face tem um número de pontos, variando de um a seis.
+D:É comumente feito de plástico ou madeira, mas pode ser encontrado em materiais mais exóticos.
+D:É essencial em jogos de tabuleiro, como Ludo e Banco Imobiliário.
+D:Pode ser utilizado em atividades educativas para ensinar matemática e probabilidade.
+D:É muitas vezes lançado com um movimento rápido da mão, rolando sobre uma superfície plana.
+D:Alguns jogos utilizam múltiplos deles para aumentar a complexidade e variabilidade.
+D:A história desse objeto remonta a civilizações antigas, onde era usado em rituais e adivinhações.
+D:Existem variações com diferentes números de faces, como os usados em jogos de RPG.
+D:É um elemento de sorte e estratégia, dependendo do contexto do jogo.
+P:ESTRELA
+D:Um corpo celeste que brilha no céu noturno, visível a olho nu ou com telescópios.
+D:É uma fonte de luz e calor, essencial para a vida em planetas próximos.
+D:A mais próxima de nós é o Sol, que sustenta toda a vida na Terra.
+D:Em noites claras e longe das luzes da cidade, é possível ver milhares delas no céu.
+D:É um símbolo comum em muitas culturas, representando orientação e inspiração.
+D:Sua formação ocorre a partir de nuvens de gás e poeira no espaço.
+D:Existem muitas variedades, como anãs brancas, gigantes vermelhas e supernovas.
+D:Seu ciclo de vida pode durar milhões ou até bilhões de anos.
+D:Elas são frequentemente usadas em estudos astronômicos para entender o universo.
+D:Seu brilho pode variar, com algumas sendo visíveis a olho nu e outras apenas com instrumentos especializados.
+P:FOGO
+D:Uma reação química rápida que libera calor e luz, essencial para a sobrevivência humana.
+D:É usado para cozinhar alimentos, aquecer ambientes e em várias indústrias.
+D:Pode ser tanto um aliado, quando controlado, quanto um perigo, quando fora de controle.
+D:É uma descoberta antiga que mudou radicalmente o curso da história humana.
+D:Pode ser iniciado de várias maneiras, como através de fósforos, isqueiros ou atrito.
+D:Seu controle foi um dos primeiros grandes avanços tecnológicos da humanidade.
+D:Em muitas culturas, é visto como um elemento purificador e transformador.
+D:É central em cerimônias religiosas e festivais ao redor do mundo.
+D:Precisa de combustível, oxigênio e calor para ser mantido.
+D:Pode ser extinto com água, areia ou extintores específicos para diferentes tipos de incêndio.
+P:GARRAFA
+D:Um recipiente utilizado para armazenar líquidos, comumente feito de vidro ou plástico.
+D:Pode ter uma tampa ou rolha para evitar derramamentos e conservar o conteúdo.
+D:É frequentemente usado para bebidas como água, refrigerante, vinho e sucos.
+D:Muitos modelos são recicláveis e ajudam a reduzir o desperdício.
+D:Pode variar em tamanho, desde pequenas individuais até grandes garrafões.
+D:Em eventos e festas, é comum ver várias delas decorando mesas e bancadas.
+D:Algumas são projetadas para manter a temperatura do líquido, como as térmicas.
+D:É um item essencial em piqueniques, viagens e atividades ao ar livre.
+D:Pode ter diferentes formas e designs, tornando-se também um item decorativo.
+D:É fundamental em práticas esportivas, onde é usada para hidratação.
+P:HORTA
+D:Um espaço dedicado ao cultivo de vegetais, ervas e algumas frutas.
+D:É comum encontrar em quintais de casas, escolas e comunidades.
+D:Promove uma alimentação mais saudável e sustentável, com alimentos frescos e orgânicos.
+D:Pode ser pequena, em vasos e jardineiras, ou grande, ocupando um terreno inteiro.
+D:É uma excelente atividade para quem gosta de jardinagem e contato com a natureza.
+D:Ajuda na economia doméstica ao reduzir a compra de produtos hortifrutigranjeiros.
+D:Exige cuidados regulares como rega, poda e controle de pragas.
+D:Pode ser um projeto educacional para ensinar crianças sobre agricultura e ecologia.
+D:Muitas vezes inclui plantas aromáticas que enriquecem o sabor dos alimentos.
+D:Em áreas urbanas, é uma forma de promover a sustentabilidade e a biodiversidade.
+P:INVERNO
+D:Uma das quatro estações do ano, caracterizada por temperaturas mais baixas.
+D:É a estação em que muitos lugares experimentam neve e gelo.
+D:Os dias são mais curtos e as noites mais longas durante essa estação.
+D:É comum o uso de roupas quentes como casacos, luvas e cachecóis.
+D:Algumas pessoas aproveitam para praticar esportes de inverno como esqui e snowboard.
+D:Muitas tradições e festividades ocorrem nesse período, como o Natal.
+D:Pode ser uma época desafiadora para a agricultura devido às condições climáticas.
+D:Em regiões tropicais, as mudanças são menos drásticas, mas ainda perceptíveis.
+D:É um período em que muitos animais hibernam ou migram para climas mais quentes.
+D:Paisagens de inverno são frequentemente associadas a beleza e tranquilidade.
+P:JACARE
+D:Um réptil grande e poderoso, encontrado principalmente em áreas de pântano e rios.
+D:Tem uma pele escamosa e dura, muitas vezes de cor verde ou marrom.
+D:É conhecido por seus dentes afiados e mandíbula forte.
+D:Pode ficar submerso na água por longos períodos, esperando para capturar sua presa.
+D:É um parente próximo dos crocodilos, mas tem um focinho mais largo.
+D:Vive em climas tropicais e subtropicais, principalmente nas Américas.
+D:Suas patas possuem garras afiadas, úteis para capturar presas e escavar.
+D:É um predador no topo da cadeia alimentar em seu habitat natural.
+D:Em algumas culturas, é um símbolo de força e poder.
+D:Pode ser encontrado em muitos parques nacionais e áreas de conservação.
+P:LIVRO
+D:Uma coleção de páginas impressas ou escritas, encadernadas juntas, contendo texto ou imagens.
+D:Pode ser de ficção ou não-ficção, abrangendo uma vasta gama de tópicos e gêneros.
+D:É uma fonte de conhecimento, entretenimento e inspiração.
+D:Pode ser lido em formato físico ou digital, como e-books.
+D:Muitos são adaptados para filmes, séries e peças de teatro.
+D:As bibliotecas e livrarias são os lugares onde é comum encontrar uma grande variedade deles.
+D:É um presente atemporal e apreciado por pessoas de todas as idades.
+D:A leitura regular é conhecida por melhorar a concentração e a habilidade de escrita.
+D:Clubes de leitura são populares para discutir e compartilhar diferentes obras literárias.
+D:Autores famosos têm seguidores devotos que aguardam ansiosamente por seus próximos lançamentos.
+P:MORANGO
+D:Uma fruta pequena, vermelha e suculenta, conhecida por seu sabor doce e levemente ácido.
+D:É comumente usada em sobremesas, sucos, geleias e saladas.
+D:Sua superfície é coberta por pequenas sementes amarelas.
+D:É uma excelente fonte de vitamina C e antioxidantes.
+D:Cultivá-lo requer clima temperado e solo bem drenado.
+D:É frequentemente associado ao verão e a festivais de colheita.
+D:Pode ser encontrado fresco, congelado ou desidratado.
+D:É uma fruta popular para o cultivo doméstico, em hortas e jardins.
+D:Muitos produtos cosméticos utilizam seu aroma em loções e perfumes.
+D:Tem folhas verdes e uma coroa que são removidas antes do consumo.
+P:NAVIO
+D:Uma grande embarcação usada para transporte de pessoas ou mercadorias através de águas.
+D:Pode ser movido a vela, motor ou ambos, dependendo do tipo e da função.
+D:É essencial para o comércio internacional, transportando cargas entre países.
+D:Existem diferentes tipos, como cargueiros, petroleiros, cruzeiros e navios de guerra.
+D:Portos e docas são pontos de parada e carregamento para essas embarcações.
+D:Navegar a bordo de um deles pode ser uma experiência de lazer em cruzeiros turísticos.
+D:A construção naval é uma indústria importante em muitas regiões costeiras.
+D:É equipado com sistemas de navegação, comunicação e segurança avançados.
+D:A vida a bordo pode ser desafiadora, especialmente em longas viagens no mar.
+D:É um símbolo de exploração e aventura, lembrando a era das grandes navegações.
+P:OLHO
+D:Um órgão sensorial que permite a visão, essencial para a percepção do mundo ao nosso redor.
+D:Está presente em muitas formas de vida, de insetos a mamíferos.
+D:Consiste em várias partes, incluindo córnea, retina, íris e pupila.
+D:A cor varia entre indivíduos, sendo comum azul, verde, castanho e preto.
+D:Pode ser corrigido com óculos ou lentes de contato em caso de problemas de visão.
+D:É frequentemente chamado de "a janela da alma" devido à sua expressividade.
+D:Exames regulares são importantes para manter a saúde ocular e prevenir doenças.
+D:Algumas condições, como miopia e hipermetropia, afetam a forma como enxergamos.
+D:A proteção contra luz solar intensa e poeira é essencial para evitar danos.
+D:É tema recorrente em obras de arte, literatura e cultura popular.
+P:QUEIJO
+D:Um alimento derivado do leite, produzido em uma ampla variedade de sabores e texturas.
+D:É um ingrediente essencial em muitas culinárias ao redor do mundo.
+D:Pode ser feito de leite de vaca, cabra, ovelha e outros animais.
+D:Variedades populares incluem cheddar, mozzarella, parmesão e brie.
+D:É frequentemente consumido em sanduíches, pizzas, saladas e pratos gratinados.
+D:A produção envolve processos de fermentação, coagulação e maturação.
+D:Muitas vezes é servido como aperitivo, sobremesa ou em tábuas de frios.
+D:O armazenamento correto é crucial para preservar seu sabor e frescor.
+D:Pode ser encontrado fresco, curado, cremoso ou duro, dependendo do tipo.
+D:Queijarias artesanais são conhecidas por produzir variedades exclusivas e de alta qualidade.
+P:ROUPA
+D:Conjunto de peças de tecido usadas para cobrir e proteger o corpo humano.
+D:Varia de acordo com o clima, ocasião e tendências da moda.
+D:Inclui itens como camisas, calças, saias, vestidos, casacos e acessórios.
+D:É uma forma de expressão pessoal e cultural, refletindo estilo e identidade.
+D:Materiais comuns incluem algodão, lã, seda, poliéster e couro.
+D:Requer cuidados específicos de lavagem e armazenamento para manter a durabilidade.
+D:Desfiles de moda e revistas influenciam as tendências e estilos populares.
+D:A indústria da moda é uma das maiores e mais dinâmicas do mundo.
+D:Vestir-se adequadamente para diferentes ocasiões é considerado um aspecto importante da etiqueta social.
+D:Segunda mão e reciclada são opções sustentáveis que estão ganhando popularidade.
+P:SAPO
+D:Um anfíbio que vive tanto na água quanto na terra, conhecido por seu salto e croac.
+D:Possui pele úmida e lisa, com cores que variam de verde a marrom.
+D:É encontrado em muitos habitats, desde florestas tropicais até regiões temperadas.
+D:Alimenta-se principalmente de insetos e outros pequenos invertebrados.
+D:Seus ovos são postos na água, onde os girinos se desenvolvem antes de se transformarem.
+D:É um indicador importante da saúde ambiental, sensível à poluição e mudanças climáticas.
+D:Em muitas culturas, é visto como um símbolo de transformação e renovação.
+D:Algumas espécies têm toxinas na pele como mecanismo de defesa contra predadores.
+D:É frequentemente personagem em contos de fadas e histórias folclóricas.
+D: No ciclo da vida, passa por uma metamorfose completa, de ovo a girino e, finalmente, a adulto.
+P:TAPETE
+D:Cobertura que protege e decora o chão de uma casa.
+D:Pode ser encontrado em diferentes cores, tamanhos e padrões.
+D:É comum em salas de estar e quartos.
+D:Frequentemente usado para proporcionar conforto ao caminhar.
+D:Pode ser feito de materiais como lã, algodão ou sintético.
+D:Necessita de limpeza regular para remover poeira e sujeira.
+D:Pode ser enrolado e transportado facilmente.
+D:Às vezes, colocado na entrada das casas para limpar os pés.
+D:Alguns são considerados obras de arte por seus desenhos complexos.
+D:Pode ser colocado sob mesas para evitar arranhões no piso.
+P:URNA
+D:Recipiente usado para armazenar votos em uma eleição.
+D:Pode ser feita de metal, plástico ou madeira.
+D:Tem uma abertura na parte superior para inserir cédulas.
+D:É usada em cerimônias funerárias para guardar cinzas.
+D:Utilizada para coletar doações ou sugestões em eventos.
+D:Tem grande importância em processos democráticos.
+D:Pode ter uma tampa para garantir a segurança do conteúdo.
+D:Em alguns contextos, é considerada um símbolo de memória.
+D:Tem papel crucial em referendos e plebiscitos.
+D:Frequentemente, tem um design simples e funcional.
+P:VENTO
+D:Movimento do ar causado por diferenças de pressão atmosférica.
+D:Pode ser suave como uma brisa ou forte como um furacão.
+D:É essencial para a polinização de muitas plantas.
+D:Utilizado em moinhos para gerar energia.
+D:Influencia o clima e as condições meteorológicas.
+D:Pode ser sentido quando as folhas das árvores se movem.
+D:Ajuda a dispersar sementes e esporos na natureza.
+D:Na navegação, é crucial para velejar.
+D:Pode ser estudado por meteorologistas para prever o tempo.
+D:Às vezes, é descrito como um sopro refrescante em dias quentes.
+P:XAROPE
+D:Solução líquida concentrada de açúcar com sabor adicionado.
+D:Comumente usado como medicamento para tratar tosse.
+D:Pode ser feito de frutas, ervas ou mel.
+D:Utilizado como cobertura em sobremesas e panquecas.
+D:Às vezes, misturado com água para fazer bebidas refrescantes.
+D:Em farmácias, é vendido em garrafas com dosadores.
+D:Pode ter uma consistência espessa e viscosa.
+D:Algumas variedades são usadas na culinária para adoçar pratos.
+D:Frequentemente, tem sabor adocicado e agradável.
+D:Deve ser armazenado em local fresco e seco.
+P:ABOBORA
+D:Legume laranja e redondo, popular no Halloween.
+D:Utilizada em sopas, tortas e pratos assados.
+D:Rica em vitaminas A e C, além de antioxidantes.
+D:Suas sementes podem ser torradas e consumidas como petisco.
+D:Muito cultivada em hortas e quintais.
+D:Pode ser esculpida em lanternas decorativas.
+D:Possui uma casca dura que deve ser removida antes do consumo.
+D:Popular em pratos tradicionais durante o outono.
+D:Pode ser transformada em purê ou recheio para sobremesas.
+D:Utilizada em muitas culturas ao redor do mundo.
+P:BALA
+D:Doce pequeno e sólido, frequentemente embrulhado em papel.
+D:Pode ser mastigável ou dura.
+D:Vem em diversos sabores como frutas, menta e caramelo.
+D:Popular entre crianças e adultos como guloseima.
+D:Algumas têm recheios líquidos ou cremosos.
+D:Muitas vezes, distribuída em festas e eventos.
+D:Pode ser usada para refrescar o hálito.
+D:Às vezes, vem em pacotes mistos com diferentes variedades.
+D:Vendida em supermercados, padarias e lojas de conveniência.
+D:Pode ser caseira ou industrializada.
+P:CADEIRA
+D:Móvel com assento, encosto e, geralmente, quatro pernas.
+D:Usada para sentar-se à mesa para refeições.
+D:Pode ser feita de madeira, metal, plástico ou estofada.
+D:Encontrada em casas, escritórios e salas de aula.
+D:Algumas são dobráveis para fácil armazenamento.
+D:Pode ter braços e rodinhas, especialmente em escritórios.
+D:Oferece suporte ergonômico para conforto ao sentar.
+D:Utilizada em diversos estilos de decoração.
+D:Pode ser parte de um conjunto de móveis.
+D:Algumas têm designs sofisticados e são consideradas peças de arte.
+P:DOCE
+D:Alimento com sabor açucarado, frequentemente consumido como sobremesa.
+D:Pode ser feito de frutas, chocolate, mel ou açúcar.
+D:Inclui variedades como bolos, tortas, biscoitos e balas.
+D:Popular em festas, celebrações e eventos especiais.
+D:Algumas receitas passam de geração em geração.
+D:Pode ser caseiro ou comprado em confeitarias.
+D:Muitas vezes, decorado com coberturas coloridas.
+D:Apreciado por pessoas de todas as idades.
+D:Pode ser servido após as refeições como sobremesa.
+D:Variado em textura, do cremoso ao crocante.
+P:ESPELHO 
+D:Superfície lisa e polida que reflete imagens.  
+D:Usado para verificar a aparência pessoal.  
+D:Presente em banheiros, quartos e corredores.  
+D:Pode ter molduras decorativas para realçar sua beleza.  
+D:Essencial em salões de beleza e barbearias.  
+D:Utilizado em telescópios e instrumentos ópticos.  
+D:Às vezes, empregado em práticas de feng shui para energizar ambientes.  
+D:Produz reflexos nítidos e claros quando bem iluminado.  
+D:Disponível em diversos tamanhos e formatos.  
+D:Pode ser utilizado para criar ilusões de espaço em ambientes pequenos.
+P:FITA
+D:Tira longa e estreita usada para amarrar ou decorar.  
+D:Pode ser feita de tecido, plástico ou papel.  
+D:Utilizada em presentes para criar laços e enfeites.  
+D:Comumente usada em fitas adesivas para colar objetos.  
+D:Popular em artesanato e costura para detalhamento.  
+D:Empregada em eventos esportivos para marcar linhas.  
+D:Pode ser decorativa em roupas e acessórios.  
+D:Usada em construção para medir distâncias e ângulos.  
+D:Disponível em várias cores, larguras e padrões.  
+D:Às vezes, associada a premiações e medalhas.
+P:GRAMA
+D:Planta verde e rasteira que cobre jardins e campos.  
+D:Fundamental para campos de futebol e parques.  
+D:Cresce em tapetes densos e macios, agradáveis ao toque.  
+D:Necessita de poda regular para manter sua altura uniforme.  
+D:Usada para alimentar animais como gado e cavalos.  
+D:Ajuda a prevenir erosão do solo em terrenos inclinados.  
+D:Pode ser cultivada em jardins residenciais e públicos.  
+D:Cresce melhor com irrigação adequada e luz solar.  
+D:Essencial em áreas de lazer para piqueniques e brincadeiras.  
+D:Pode ser semeada ou implantada através de placas.
+P:HELICOPTERO
+D:Aeronave com hélices que permite decolagem vertical.  
+D:Utilizado para resgates, transportes e serviços médicos.  
+D:Equipado com um rotor principal e um rotor de cauda.  
+D:Pode pairar no ar sem precisar de uma pista para pouso.  
+D:Frequentemente usado em missões militares e policiais.  
+D:Crucial em operações de combate a incêndios florestais.  
+D:Empregado em passeios turísticos para vistas aéreas.  
+D:Capaz de voar em áreas inacessíveis a aviões.  
+D:Algumas versões são equipadas com sofisticados sistemas de navegação.  
+D:Necessita de pilotos treinados para manobras complexas.
+P:IGREJA
+D:Edifício onde são realizadas celebrações religiosas.  
+D:Pode ter uma arquitetura imponente com torres e vitrais.  
+D:Frequentada por fiéis para orações e missas.  
+D:Muitas têm sinos que tocam para marcar horas e eventos.  
+D:Espaço sagrado para casamentos, batismos e funerais.  
+D:Frequentemente, possui bancos alinhados voltados para o altar.  
+D:Pode ser um local de peregrinação e devoção.  
+D:Geralmente administrada por padres, pastores ou ministros.  
+D:Algumas são consideradas patrimônio histórico e cultural.  
+D:Local de encontro comunitário e atividades sociais.
+P:JACA
+D:Fruta grande e espinhosa por fora, com polpa doce e amarela.  
+D:Muito popular no Nordeste do Brasil e em países asiáticos.  
+D:Cresce em árvores e pode atingir grandes tamanhos.  
+D:Sua polpa é usada em pratos doces e salgados.  
+D:As sementes podem ser cozidas e consumidas como um legume.  
+D:Tem um aroma forte e distintivo quando madura.  
+D:A casca é grossa e difícil de abrir sem uma faca.  
+D:Rica em nutrientes, como vitaminas e fibras.  
+D:Utilizada em culinária vegana como substituto da carne.  
+D:Pode ser encontrada em feiras e mercados de produtos frescos.
+P:LANTERNA
+D:Dispositivo portátil que emite luz, geralmente a bateria.  
+D:Essencial em acampamentos e durante apagões.  
+D:Pode ter diferentes intensidades de brilho e modos de iluminação.  
+D:Muitas vezes, usada por policiais e socorristas em operações noturnas.  
+D:Disponível em diversos tamanhos, desde compactas até grandes.  
+D:Algumas são recarregáveis via USB ou energia solar.  
+D:Utilizada em carros para emergências na estrada.  
+D:Pode ser à prova d'água para uso em ambientes úmidos.  
+D:Facilmente encontrada em lojas de utilidades domésticas e esportivas.  
+D:Crucial para explorar cavernas e trilhas à noite.
+P:MOCHILA
+D:Bolsa com alças usada nas costas para carregar objetos.  
+D:Popular entre estudantes para transportar livros e materiais escolares.  
+D:Essencial em trilhas e viagens para carregar roupas e suprimentos.  
+D:Pode ter vários compartimentos e bolsos para organização.  
+D:Feita de materiais resistentes como nylon ou poliéster.  
+D:Disponível em diversos tamanhos, estilos e cores.  
+D:Algumas possuem compartimentos especiais para laptops.  
+D:Usada por profissionais que precisam transportar equipamentos.  
+D:Ajustável para garantir conforto durante o uso prolongado.  
+D:Facilmente encontrada em lojas de artigos esportivos e escolares.
+P:NUVEM
+D:Formação de partículas de água suspensas na atmosfera.  
+D:Pode assumir diversas formas e tamanhos no céu.  
+D:Frequentemente associada à previsão do tempo, como chuva ou sol.  
+D:As mais altas são feitas de cristais de gelo, enquanto as baixas são de gotículas de água.  
+D:Pode ser branca e fofa em dias ensolarados ou cinza e densa em dias chuvosos.  
+D:Essencial para o ciclo da água, ajudando na precipitação.  
+D:Observada em diferentes altitudes, desde cumulus a cirrus.  
+D:Algumas trazem tempestades com raios e trovões.  
+D:Muitas vezes, usada em metáforas e expressões poéticas.  
+D:Observada pelos meteorologistas para prever mudanças climáticas.
+P:OCULOS
+D:Acessório usado no rosto para corrigir a visão ou proteger os olhos.  
+D:Pode ter lentes de prescrição para miopia, hipermetropia ou astigmatismo.  
+D:Também usado como proteção contra raios solares, conhecido como óculos de sol.  
+D:Muitas armações são feitas de plástico, metal ou acetato.  
+D:Disponível em diversos estilos, cores e designs.  
+D:Essencial para leitura, direção e atividades diárias.  
+D:Pode ter lentes de contato como alternativa.  
+D:Alguns modelos têm lentes fotocromáticas que escurecem no sol.  
+D:Frequentemente encontrados em ópticas e lojas de acessórios de moda.  
+D:Necessário em profissões que exigem precisão visual, como cirurgiões e pilotos.
+P:PINTURA
+D:Arte de aplicar tinta em uma superfície para criar uma imagem.  
+D:Pode ser realizada com pincéis, espátulas ou até com as mãos.  
+D:Utiliza uma variedade de tintas, como óleo, acrílico e aquarela.  
+D:Muitas vezes exposta em galerias e museus.  
+D:Pode retratar paisagens, retratos, natureza-morta ou abstrações.  
+D:Praticada por artistas famosos como Van Gogh e Picasso.  
+D:Usada para decorar ambientes, trazendo cor e personalidade.  
+D:Pode ser feita em telas, paredes, papéis e outros materiais.  
+D:Algumas obras são consideradas patrimônios culturais valiosos.  
+D:É uma forma de expressão pessoal e criativa.
+P:RELOGIO
+D:Dispositivo usado para medir e mostrar o tempo.  
+D:Pode ser de pulso, de parede, de mesa ou de bolso.  
+D:Funciona com mecanismos de quartzo, automáticos ou digitais.  
+D:Essencial para a organização do dia a dia.  
+D:Frequentemente utilizado como acessório de moda.  
+D:Alguns modelos têm funções adicionais como cronômetro e alarme.  
+D:Pode ser analógico com ponteiros ou digital com números.  
+D:Utilizado em diversas áreas, desde doméstica até industrial.  
+D:Muitas vezes considerado um símbolo de pontualidade e disciplina.  
+D:Disponível em uma ampla gama de estilos e preços.
+P:SABONETE
+D:Produto utilizado para limpeza da pele, feito de óleos e soda cáustica.  
+D:Pode ter fragrâncias variadas, como lavanda, erva-doce e aloe vera.  
+D:Essencial para a higiene pessoal diária.  
+D:Disponível em barras sólidas ou em forma líquida.  
+D:Utilizado para remover sujeira, bactérias e odores.  
+D:Alguns têm propriedades hidratantes e esfoliantes.  
+D:Encontrado em diversas formas e cores.  
+D:Pode ser caseiro ou industrializado.  
+D:Muitas vezes, inclui ingredientes naturais para benefícios adicionais à pele.  
+D:Usado em conjunto com água para formar espuma e limpar.
+P:TELEFONE
+D:Dispositivo usado para comunicação à distância por voz.  
+D:Pode ser fixo, com fio, ou móvel, conhecido como celular.  
+D:Revolucionou a maneira como as pessoas se comunicam.  
+D:Permite a realização de chamadas, envio de mensagens e acesso à internet.  
+D:Alguns modelos são equipados com câmeras e aplicativos diversos.  
+D:Essencial em emergências para solicitar ajuda rapidamente.  
+D:Disponível em diversas marcas, estilos e tecnologias.  
+D:Pode ser utilizado para videoconferências e reuniões online.  
+D:Necessita de uma rede de telecomunicações para funcionar.  
+D:Frequentemente atualizado com novos recursos e melhorias tecnológicas.
+P:UMBIGO
+D:Parte do corpo localizada no abdômen.
+D:É uma cicatriz que todos os mamíferos têm.
+D:Conecta o bebê à mãe durante a gravidez.
+D:Fica no centro da barriga.
+D:Muitas pessoas têm piercing nele.
+D:Pode ser "para dentro" ou "para fora".
+D:Geralmente é arredondado.
+D:É uma marca que todos temos desde o nascimento.
+D:Nos lembra da nossa conexão com nossas mães.
+D:Termina a linha da nossa "trilha feliz".
+P:VIAGEM
+D:Movimento de ir de um lugar para outro.
+D:Pode ser curta ou longa.
+D:Feita de carro, avião, trem ou navio.
+D:Muitos fazem para conhecer novos lugares.
+D:Pode ser por lazer ou trabalho.
+D:Envolve planejamento e preparação.
+D:Frequentemente envolve bagagem.
+D:Pode ser uma aventura emocionante.
+D:Muitas pessoas sonham em fazer uma ao redor do mundo.
+D:Nos permite explorar culturas diferentes.
+P:XICARA
+D:Utensílio usado para beber líquidos quentes.
+D:Normalmente feito de cerâmica ou porcelana.
+D:Tem uma alça para segurar.
+D:Usado para servir chá ou café.
+D:Geralmente é menor que uma caneca.
+D:Parte importante de um serviço de chá.
+D:Pode ter várias cores e designs.
+D:Frequentemente vista em conjuntos de louça.
+D:Item comum em cozinhas e cafés.
+D:Pode ser delicada e decorativa.
+P:ZIPER
+D:Fecho usado em roupas e bolsas.
+D:Consiste em dois trilhos que se unem.
+D:Inventado no final do século XIX.
+D:Facilita abrir e fechar rapidamente.
+D:Muito usado em jaquetas e calças.
+D:Também encontrado em mochilas e malas.
+D:Pode ser de metal ou plástico.
+D:Pode emperrar às vezes.
+D:Frequentemente usado em roupas esportivas.
+D:Tornou-se essencial na moda e na utilidade diária.
+P:AVIAO
+D:Meio de transporte que voa.
+D:Usado para viagens aéreas comerciais e privadas.
+D:Tem asas e motores a jato ou hélices.
+D:Pode transportar passageiros ou carga.
+D:Inventado por Santos Dumont.
+D:Fundamental para viagens internacionais.
+D:Equipado com cabines pressurizadas.
+D:Frequenta aeroportos para decolagem e pouso.
+D:Crucial para a globalização e economia mundial.
+D:Símbolo de progresso tecnológico e exploração humana.
+P:PAO DE MEL
+D:É uma massa doce.
+D:É coberto por chocolate.
+D:Pode ser recheado com diversos recheios. Um exemplo é o doce de leite.
+D:Podem ser caseiros ou industrializados.
+D:Geralmente tem a massa da cor marrom.
+D:Um dos seus ingredientes é o "néctar dos deuses".
+D:Podem ser pequenos ou médios.
+D:É um tipo de pão
+D:Pessoas podem o vender para conseguirem uma renda extra
+D:É feito a base de trigo
